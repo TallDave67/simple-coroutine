@@ -26,7 +26,7 @@ duration: 2 hours
 
 ### Code from Another Developer
 
-This code comes entirely from David Mazières at Stanfor.
+This code comes entirely from David Mazières at Stanford.
 
 [Coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
