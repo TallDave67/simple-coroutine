@@ -42,7 +42,7 @@ Thanks a bunch to Peter Würtz for providing the particular syntax that got me o
 
 And thanks to Mysterious Chris for the function that fixed the last compiler error.
 
-[ReturnObject must conform to interface]9https://stackoverflow.com/questions/67306337/a-coroutines-promise-must-declare-either-return-value-or-return-void-erro)
+[ReturnObject must conform to interface](https://stackoverflow.com/questions/67306337/a-coroutines-promise-must-declare-either-return-value-or-return-void-erro)
 
 
 
