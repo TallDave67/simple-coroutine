@@ -1,4 +1,4 @@
-# Hello World (C++20)
+# Coroutines (C++20)
 
 This project demonstrates coroutines in C++20.
 
