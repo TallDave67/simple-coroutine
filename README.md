@@ -36,7 +36,7 @@ Except for 2 very important changes to get it to compile with clang (see below).
 
 The clang 11 compiler is halfway between experimental and full support for coroutines.
 
-Thanks a bunch to Peter Würtz for providing the particular syntax that got me over the halfway point roadblock.
+Thanks a bunch to Peter Würtz for providing some bridge code that got me over the halfway point roadblock.
 
 [Bypass GCC coroutine guards](https://bugreports.qt.io/browse/QTCREATORBUG-24634?gerritReviewStatus=Open)
 
